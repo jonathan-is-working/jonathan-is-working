@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+<defs><linearGradient id="a" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#A78BFA" stop-opacity=".35"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></linearGradient></defs>
+<line x1="50" x2="980" y1="255.0" y2="255.0" stroke="#30363D" stroke-dasharray="3 4"/><text x="40" y="259.0" text-anchor="end" fill="#6E7681" font-size="12" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">0</text>
+<line x1="50" x2="980" y1="210.0" y2="210.0" stroke="#30363D" stroke-dasharray="3 4"/><text x="40" y="214.0" text-anchor="end" fill="#6E7681" font-size="12" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">4</text>
+<line x1="50" x2="980" y1="165.0" y2="165.0" stroke="#30363D" stroke-dasharray="3 4"/><text x="40" y="169.0" text-anchor="end" fill="#6E7681" font-size="12" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">8</text>
+<line x1="50" x2="980" y1="120.0" y2="120.0" stroke="#30363D" stroke-dasharray="3 4"/><text x="40" y="124.0" text-anchor="end" fill="#6E7681" font-size="12" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">12</text>
+<line x1="50" x2="980" y1="75.0" y2="75.0" stroke="#30363D" stroke-dasharray="3 4"/><text x="40" y="79.0" text-anchor="end" fill="#6E7681" font-size="12" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">16</text>
+<line x1="50" x2="980" y1="30.0" y2="30.0" stroke="#30363D" stroke-dasharray="3 4"/><text x="40" y="34.0" text-anchor="end" fill="#6E7681" font-size="12" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">20</text>
+<text x="50.0" y="282" text-anchor="middle" fill="#6E7681" font-size="12" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">10</text>
+<text x="143.0" y="282" text-anchor="middle" fill="#6E7681" font-size="12" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">13</text>
+<text x="236.0" y="282" text-anchor="middle" fill="#6E7681" font-size="12" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">16</text>
+<text x="329.0" y="282" text-anchor="middle" fill="#6E7681" font-size="12" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">19</text>
+<text x="422.0" y="282" text-anchor="middle" fill="#6E7681" font-size="12" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">22</text>
+<text x="515.0" y="282" text-anchor="middle" fill="#6E7681" font-size="12" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">25</text>
+<text x="608.0" y="282" text-anchor="middle" fill="#6E7681" font-size="12" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">28</text>
+<text x="701.0" y="282" text-anchor="middle" fill="#6E7681" font-size="12" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">31</text>
+<text x="794.0" y="282" text-anchor="middle" fill="#6E7681" font-size="12" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">3</text>
+<text x="887.0" y="282" text-anchor="middle" fill="#6E7681" font-size="12" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">6</text>
+<text x="980.0" y="282" text-anchor="middle" fill="#6E7681" font-size="12" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">9</text>
+<polygon points="50,255 50.0,232.5 81.0,210.0 112.0,243.8 143.0,243.8 174.0,243.8 205.0,243.8 236.0,243.8 267.0,210.0 298.0,176.2 329.0,243.8 360.0,255.0 391.0,255.0 422.0,255.0 453.0,255.0 484.0,243.8 515.0,255.0 546.0,255.0 577.0,243.8 608.0,255.0 639.0,255.0 670.0,255.0 701.0,255.0 732.0,243.8 763.0,255.0 794.0,255.0 825.0,255.0 856.0,255.0 887.0,210.0 918.0,210.0 949.0,232.5 980.0,63.8 980,255" fill="url(#a)"/>
+<polyline points="50.0,232.5 81.0,210.0 112.0,243.8 143.0,243.8 174.0,243.8 205.0,243.8 236.0,243.8 267.0,210.0 298.0,176.2 329.0,243.8 360.0,255.0 391.0,255.0 422.0,255.0 453.0,255.0 484.0,243.8 515.0,255.0 546.0,255.0 577.0,243.8 608.0,255.0 639.0,255.0 670.0,255.0 701.0,255.0 732.0,243.8 763.0,255.0 794.0,255.0 825.0,255.0 856.0,255.0 887.0,210.0 918.0,210.0 949.0,232.5 980.0,63.8" fill="none" stroke="#A78BFA" stroke-width="2.5" stroke-linejoin="round"/>
+<circle cx="50.0" cy="232.5" r="3.5" fill="#A78BFA"/>
+<circle cx="81.0" cy="210.0" r="3.5" fill="#A78BFA"/>
+<circle cx="112.0" cy="243.8" r="3.5" fill="#A78BFA"/>
+<circle cx="143.0" cy="243.8" r="3.5" fill="#A78BFA"/>
+<circle cx="174.0" cy="243.8" r="3.5" fill="#A78BFA"/>
+<circle cx="205.0" cy="243.8" r="3.5" fill="#A78BFA"/>
+<circle cx="236.0" cy="243.8" r="3.5" fill="#A78BFA"/>
+<circle cx="267.0" cy="210.0" r="3.5" fill="#A78BFA"/>
+<circle cx="298.0" cy="176.2" r="3.5" fill="#A78BFA"/>
+<circle cx="329.0" cy="243.8" r="3.5" fill="#A78BFA"/>
+<circle cx="360.0" cy="255.0" r="3.5" fill="#A78BFA"/>
+<circle cx="391.0" cy="255.0" r="3.5" fill="#A78BFA"/>
+<circle cx="422.0" cy="255.0" r="3.5" fill="#A78BFA"/>
+<circle cx="453.0" cy="255.0" r="3.5" fill="#A78BFA"/>
+<circle cx="484.0" cy="243.8" r="3.5" fill="#A78BFA"/>
+<circle cx="515.0" cy="255.0" r="3.5" fill="#A78BFA"/>
+<circle cx="546.0" cy="255.0" r="3.5" fill="#A78BFA"/>
+<circle cx="577.0" cy="243.8" r="3.5" fill="#A78BFA"/>
+<circle cx="608.0" cy="255.0" r="3.5" fill="#A78BFA"/>
+<circle cx="639.0" cy="255.0" r="3.5" fill="#A78BFA"/>
+<circle cx="670.0" cy="255.0" r="3.5" fill="#A78BFA"/>
+<circle cx="701.0" cy="255.0" r="3.5" fill="#A78BFA"/>
+<circle cx="732.0" cy="243.8" r="3.5" fill="#A78BFA"/>
+<circle cx="763.0" cy="255.0" r="3.5" fill="#A78BFA"/>
+<circle cx="794.0" cy="255.0" r="3.5" fill="#A78BFA"/>
+<circle cx="825.0" cy="255.0" r="3.5" fill="#A78BFA"/>
+<circle cx="856.0" cy="255.0" r="3.5" fill="#A78BFA"/>
+<circle cx="887.0" cy="210.0" r="3.5" fill="#A78BFA"/>
+<circle cx="918.0" cy="210.0" r="3.5" fill="#A78BFA"/>
+<circle cx="949.0" cy="232.5" r="3.5" fill="#A78BFA"/>
+<circle cx="980.0" cy="63.8" r="3.5" fill="#A78BFA"/>
+</svg>
